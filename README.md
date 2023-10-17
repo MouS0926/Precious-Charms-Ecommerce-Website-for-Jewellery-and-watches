@@ -48,7 +48,7 @@ Admin Features :
 Clone the project
 
 ```bash
-  git clone https://github.com/vishalG197/shocking-grade-9442.git
+  git clone https://github.com/MouS0926/Precious-Charms-Ecommerce-Website-for-Jewellery-and-watches.git
 ```
 
 Go to the project directory
